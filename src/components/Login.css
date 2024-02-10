@@ -1,0 +1,52 @@
+input{
+    border-radius: 15px;
+    
+}
+.form-control{
+    border-radius: 15px;
+}
+.row{
+    margin-top: 100px;
+   
+}
+h1{
+    color: rgb(97 186 245);
+}
+.form{
+    margin-right: 20px;
+}
+h4{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.ipone{
+    width: 360px;
+}
+.iptwo{
+    width: 360px;
+}
+button{
+    
+    border-radius: 15px;
+    color:rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 14px;
+    padding: 2px 5px;
+    text-transform: uppercase;
+    background-color: rgb(97 186 245);
+    width: 300px;
+    height: 35px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+}
+.continue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-family: 'Work Sans', sans-serif;
+}
